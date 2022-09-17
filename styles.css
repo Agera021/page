@@ -1,14 +1,10 @@
-body {
-    margin-left: 0px;
-    margin-right: 0px;
-}
 .block1 {
     display: flex;
     font-family: 'Lato', sans-serif;
 }
 .m0 {
     display: flex;
-    width: 100%;
+    width: 1440px;
     height: 500px;
     background-color: 
     rgba(237, 76, 92, 1);
@@ -29,7 +25,7 @@ body {
     height: 107px; 
     color: rgb(255, 255, 255);
     font-size: 14px;
-    margin-left: -1415px;
+    margin-left: -1270px;
     margin-top: 210px;
 }
 .m2 {
@@ -37,7 +33,7 @@ body {
     height: 32px; 
     color: rgb(255, 255, 255);
     font-size: 14px;
-    margin-left: -1415px;
+    margin-left: -1270px;
     margin-top: 320px;
 }
 .m3 {
